@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pranita Mane
 
-I'm a  full-stack development and polyglot development.
+I'm a  full-stack developer
 
 ## 🚀 About Me
 
