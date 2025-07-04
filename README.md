@@ -15,15 +15,15 @@ I'm a third year computer engineering student passionate about full-stack develo
 
 ## 👀 Most Used Languages 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitabansode05&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranitamane25&layout=compact)
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitabansode05&show_icons=true&hide_title=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pranitamane25&show_icons=true&hide_title=true)
 
 ## 📊 Github Streak Stats 
 
-![githubstreak](https://streak-stats.demolab.com?user=nikitabansode05&theme=highcontrast&border_radius=5.4)
+![githubstreak](https://streak-stats.demolab.com?user=pranitamane25&theme=highcontrast&border_radius=5.4)
 
 
 ## 🌐 Connect with me
