@@ -1,13 +1,12 @@
-# 👋 Hi, I'm Nikita Bansode
+# 👋 Hi, I'm Pranita Mane
 
 I'm a third year computer engineering student passionate about full-stack development and polyglot development.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: [TFL Assesment]
 - 🌱 I’m learning: [C,C++,C#,JAVA,Node JS]
-- 📫 How to reach me: [www.linkedin.com/in/nikita-bansode05]
-- ⚡ Fun fact: [Developer with an artistic mind]
+- 📫 How to reach me: [(https://www.linkedin.com/in/pranita-mane-b690a822b/)]
+- ⚡ Fun fact: [Developer]
 
 ## 🛠 Languages & Tools
 
@@ -28,4 +27,4 @@ I'm a third year computer engineering student passionate about full-stack develo
 
 ## 🌐 Connect with me
 
-[www.linkedin.com/in/nikita-bansode05] •
+[(https://www.linkedin.com/in/pranita-mane-b690a822b/)] •
