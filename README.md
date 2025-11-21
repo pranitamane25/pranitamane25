@@ -4,7 +4,7 @@ I'm a  full-stack developer
 
 ## 🚀 About Me
 
-- 🌱 I’m learning: [C,C++,C#,JAVA,Node JS]
+- 🌱 I’m learning: [C,C++,C#,HTML,CSS,Java Script,Bootstrap,Angular]
 - 📫 How to reach me: [(https://www.linkedin.com/in/pranita-mane-b690a822b/)]
 - ⚡ Fun fact: [Developer]
 
